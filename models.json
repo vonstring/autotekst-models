@@ -1,0 +1,24 @@
+[
+    {
+        "name": "large-v3",
+        "downloads": {
+            "ggml": {
+                "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3.bin?download=true",
+                "size": "3095033483",
+                "md5": "186b3b498020462afb7f48a8a087110e"
+            }
+        },
+        "displayName": "OpenAI Whisper v3 (large)"
+    },
+    {
+        "name": "salmon-whisper-large-smj-lr7e-5",
+        "downloads": {
+            "ggml": {
+                "url": "https://huggingface.co/NbAiLab/salmon-whisper-large-smj-lr7e-5/resolve/main/ggml-model.bin?download=true",
+                "size": "3094623708",
+                "md5": "fff60f604221288538cd22fe0701ef0f"
+            }
+        },
+        "displayName": "Nasjonalbiblioteket large-smj-lr7e-5"
+    }
+]
