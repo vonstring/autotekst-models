@@ -10,7 +10,7 @@ const processModelsJson = async (path) => {
         for (const [downloadType, download] of Object.entries(model.downloads)) {
             const response = await fetch(download.url);
 
-            download.size = response.headers.get('Content-Length');
+            download.size = parseInt(response.headers.get('Content-Length') || 0);
 
             if (typeof download.md5 === 'undefined') {
                 console.log(`Processing ${model.name} ${downloadType}`);

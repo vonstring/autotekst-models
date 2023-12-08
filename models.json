@@ -4,7 +4,7 @@
         "downloads": {
             "ggml": {
                 "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3.bin?download=true",
-                "size": "3095033483",
+                "size": 3095033483,
                 "md5": "186b3b498020462afb7f48a8a087110e"
             }
         },
@@ -16,7 +16,7 @@
         "downloads": {
             "ggml": {
                 "url": "https://huggingface.co/NbAiLabBeta/nb-whisper-large/resolve/main/ggml-model.bin?download=true",
-                "size": "3095033483",
+                "size": 3095033483,
                 "md5": "a2c45786b29daf1223f5fc846ea49ece"
             }
         },
@@ -28,7 +28,7 @@
         "downloads": {
             "ggml": {
                 "url": "https://huggingface.co/NbAiLabBeta/nb-whisper-large-verbatim/resolve/main/ggml-model.bin?download=true",
-                "size": "3095033483",
+                "size": 3095033483,
                 "md5": "fc9a316afdfe0abf73a959b6e6e25f47"
             }
         },
@@ -40,7 +40,7 @@
         "downloads": {
             "ggml": {
                 "url": "https://huggingface.co/NbAiLabBeta/nb-whisper-large-semantic/resolve/main/ggml-model.bin?download=true",
-                "size": "3095033483",
+                "size": 3095033483,
                 "md5": "4f4351191d0536b09850f338b11ea48f"
             }
         },
