@@ -1,17 +1,5 @@
 [
     {
-        "name": "large-v3",
-        "downloads": {
-            "ggml": {
-                "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3.bin?download=true",
-                "size": 3095033483,
-                "md5": "186b3b498020462afb7f48a8a087110e"
-            }
-        },
-        "displayName": "OpenAI Whisper v3",
-        "modelSize": "large"
-    },
-    {
         "name": "nb-whisper-large-beta",
         "downloads": {
             "ggml": {
@@ -21,6 +9,18 @@
             }
         },
         "displayName": "NB Beta",
+        "modelSize": "large"
+    },
+    {
+        "name": "large-v3",
+        "downloads": {
+            "ggml": {
+                "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3.bin?download=true",
+                "size": 3095033483,
+                "md5": "186b3b498020462afb7f48a8a087110e"
+            }
+        },
+        "displayName": "OpenAI Whisper v3",
         "modelSize": "large"
     },
     {
