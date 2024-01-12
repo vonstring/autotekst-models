@@ -1,14 +1,14 @@
 [
     {
-        "name": "nb-whisper-large-beta",
+        "name": "nb-whisper-large",
         "downloads": {
             "ggml": {
                 "url": "https://huggingface.co/NbAiLabBeta/nb-whisper-large/resolve/main/ggml-model.bin?download=true",
                 "size": 3095033483,
-                "md5": "a2c45786b29daf1223f5fc846ea49ece"
+                "md5": "11a858b1f700aa732bd6d790363a07c5"
             }
         },
-        "displayName": "NB Beta",
+        "displayName": "NB Whisper",
         "modelSize": "large"
     },
     {
@@ -24,18 +24,6 @@
         "modelSize": "large"
     },
     {
-        "name": "nb-whisper-large-beta-verbatim",
-        "downloads": {
-            "ggml": {
-                "url": "https://huggingface.co/NbAiLabBeta/nb-whisper-large-verbatim/resolve/main/ggml-model.bin?download=true",
-                "size": 3095033483,
-                "md5": "fc9a316afdfe0abf73a959b6e6e25f47"
-            }
-        },
-        "displayName": "NB Beta Verbatim",
-        "modelSize": "large"
-    },
-    {
         "name": "nb-whisper-large-beta-semantic",
         "downloads": {
             "ggml": {
@@ -44,7 +32,7 @@
                 "md5": "4f4351191d0536b09850f338b11ea48f"
             }
         },
-        "displayName": "NB Beta Semantic",
+        "displayName": "NB Whisper Semantic",
         "modelSize": "large"
     }
 ]
